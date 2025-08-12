@@ -24,6 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=Zwe-Zar-Ni&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ### ✉️ Let's Connect
-![heinzwe2626@gmail.com](mailto: heinzwe2626@gmail.com)
+[heinzwe2626@gmail.com](mailto: heinzwe2626@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
