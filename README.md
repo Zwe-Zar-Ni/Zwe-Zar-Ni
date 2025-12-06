@@ -8,7 +8,13 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zwe-Zar-Ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Zwe-Zar-Ni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zwe-Zar-Ni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Zwe-Zar-Ni&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zwe-Zar-Ni&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
