@@ -1,4 +1,7 @@
 ## Wassaaa 👻
+
+Let's not connect. I have social anxiety.
+
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-9a6aff)](https://zwe-zar-ni.netlify.app/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vaddshah) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zwe.zarni.94651/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zwe-zar-ni-b77229255/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/TheLegendaryVaddshah/) 
@@ -20,16 +23,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Zwe-Zar-Ni&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zwe-Zar-Ni&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zwe-Zar-Ni&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### ✉️ Let's Connect
 heinzwe2626@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
