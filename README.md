@@ -1,6 +1,6 @@
 ## Wassaaa 👻
 
-Let's not connect. I have social anxiety.
+**Let's not connect.**
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-9a6aff)](https://zwe-zar-ni.netlify.app/)
