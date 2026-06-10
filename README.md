@@ -1,6 +1,6 @@
 ## Wassaaa 👻
 
-[![Moved to Gitlab](https://git.a3l.dev/zwe-zar-ni)]
+Moved to Gitlab - https://git.a3l.dev/zwe-zar-ni
 
 **Let's not connect.**
 
