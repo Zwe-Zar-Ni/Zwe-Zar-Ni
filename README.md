@@ -1,6 +1,6 @@
 ## Wassaaa 👻
 
-**Let's not connect.**
+**You can fail at what you don't want, so you might as well take a chance on doing what you love.**
 
 ## Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-9a6aff)](https://zwe-zar-ni.netlify.app/)
