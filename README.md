@@ -4,6 +4,9 @@
 
 heinzwe2626@gmail.com
 
+Software Engineer with 3+ years of experience delivering scalable full-stack web platforms
+and cross-platform mobile applications.
+
 ---
 
 ## Socials:
@@ -44,9 +47,6 @@ heinzwe2626@gmail.com
 ![](https://github-readme-stats.shion.dev/api?username=Zwe-Zar-Ni&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Zwe-Zar-Ni&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zwe-Zar-Ni&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zwe-Zar-Ni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
