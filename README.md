@@ -11,8 +11,8 @@ and cross-platform mobile applications.
 
 ## Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-9a6aff)](https://zwe-zar-ni.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zwe-zar-ni-b77229255/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/TheLegendaryVaddshah/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zwe-zar-ni-b77229255/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/TheLegendaryVaddshah/) 
 
 ---
 
