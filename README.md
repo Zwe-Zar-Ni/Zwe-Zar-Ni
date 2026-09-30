@@ -34,7 +34,7 @@ and cross-platform mobile applications.
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDb](https://img.shields.io/badge/mongodb-%237AA843.svg?style=for-the-badge&logo=mongodb)
 
 ![Linux](https://img.shields.io/badge/linux-%234B68D1.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
